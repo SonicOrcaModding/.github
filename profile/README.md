@@ -2,6 +2,8 @@
 
 This is the Github Org for SonicOrca (The engine that Sonic 2 HD uses) related things. Mainly modding and source code.
 
+DISCORD SERVER: https://discord.gg/NZMeQTHRBx
+
 # What we have so far
 
 ## OFFICIAL
